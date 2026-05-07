@@ -25,5 +25,5 @@ To understand real-world local network attacks and gain hands-on experience in t
 
 ## 👨‍💻 Author
 
-**Saif ur Rehman**  
+**Muhammad Saif Ur Rehman Feroz**  
 [LinkedIn](https://www.linkedin.com/in/saif-ur-rehman-feroz-a79859362/)
